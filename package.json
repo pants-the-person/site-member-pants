@@ -1,0 +1,19 @@
+{
+  "name": "site-member-pants",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The homepage of pants_the_person: a 486, DOS games, MIDI files and too many animated GIFs.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.4.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
